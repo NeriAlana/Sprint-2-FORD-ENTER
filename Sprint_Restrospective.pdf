@@ -1,0 +1,46 @@
+Projeto: FORD ENTER
+Desenvolvedora: Alana Cunha Neri
+Data: 16/07/2025 - 17/07/2025
+Sprint: 2
+
+Histórias implementadas:
+
+ID 1 – Alteração visual na página index.html
+
+ID 3 – Ajustes nos links da página contato.html
+
+O que funcionou bem: 
+A criação e o uso de branches separadas (index e contato) ajudaram a manter 
+a organização do projeto e facilitaram o controle das mudanças.
+
+As alterações exigidas pelo Product Owner foram implementadas conforme as 
+histórias de usuário descritas no Product Backlog.
+
+O versionamento com Git e GitHub funcionou corretamente após o entendimento
+da sequência adequada dos comandos (add, commit, push, merge, etc.).
+
+A documentação da Sprint Backlog foi clara e seguiu a estrutura recomendada, 
+contendo apenas as histórias selecionadas e seus respectivos esforços.
+
+O que não funcionou bem:
+
+No início da Sprint, houve dificuldades com conflitos de merge ao tentar unir 
+branches, o que atrasou o fluxo até que fosse resolvido.
+
+A sincronização entre o repositório local e o GitHub apresentou erros por falta 
+de configuração inicial (ex: SSH ou autenticação), demandando suporte adicional.
+
+
+Sugestões de melhoria:
+
+Praticar mais comandos de Git em diferentes cenários (ex: resolução de conflitos, 
+rebase, pull requests) para maior segurança no uso da ferramenta.
+
+Estabelecer um checklist pré-merge para garantir que nenhuma alteração local importante 
+será sobrescrita ou perdida.
+
+Incluir testes manuais após cada alteração de layout ou link, para detectar rapidamente 
+erros de navegação ou quebra de interface.
+
+Manter um diário de bordo simples com os comandos usados e os erros enfrentados, 
+para facilitar futuras consultas.
